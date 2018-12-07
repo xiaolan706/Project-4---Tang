@@ -1,0 +1,12 @@
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\bin\Debug\Project 4-Course Capston--Tang.exe.config
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\bin\Debug\Project 4-Course Capston--Tang.exe
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\bin\Debug\Project 4-Course Capston--Tang.pdb
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project 4-Course Capston--Tang.csprojAssemblyReference.cache
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project_4_Course_Capston__Tang.Properties.Resources.resources
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project 4-Course Capston--Tang.csproj.GenerateResource.cache
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project 4-Course Capston--Tang.csproj.CoreCompileInputs.cache
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project 4-Course Capston--Tang.exe
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project 4-Course Capston--Tang.pdb
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\bin\Debug\Course Information.mdf
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\bin\Debug\Course Information_log.ldf
+C:\C# 2017\source\Project 4-Course Capston--Tang\Project 4-Course Capston--Tang\obj\Debug\Project_4_Course_Capston__Tang.Form1.resources
